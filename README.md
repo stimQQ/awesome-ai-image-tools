@@ -1,6 +1,6 @@
 # Awesome AI Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of 330+ AI-powered image and video tools for creators, designers, and developers.
+> A curated list of 355+ AI-powered image and video tools for creators, designers, and developers.
 
 Whether you're a content creator, designer, or developer, this list helps you find the best AI tools for image editing, enhancement, generation, and more.
 
@@ -75,6 +75,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=photiu.ai&sz=32" width="16"> | [Photiu.ai](https://photiu.ai) | ✅ Free | ❌ | Free AI background removal, object erasure, and upscaling. No login required. |
 | <img src="https://www.google.com/s2/favicons?domain=blend.so&sz=32" width="16"> | [Blend](https://blend.so) | ✅ Limited | ❌ | AI background eraser with AI-generated background replacement. |
 | <img src="https://www.google.com/s2/favicons?domain=pixian.ai&sz=32" width="16"> | [Pixian.ai](https://pixian.ai) | ✅ Limited | ✅ | AI background removal up to 25MP. Great for objects, logos, hair/fur. Drop-in remove.bg replacement. |
+| <img src="https://www.google.com/s2/favicons?domain=ezremove.ai&sz=32" width="16"> | [EzRemove](https://ezremove.ai) | ✅ Free | ❌ | Free AI background remover with batch processing. No signup, no watermark. |
 
 ## Image Upscaling & Enhancement
 
@@ -93,6 +94,10 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=picwish.com&sz=32" width="16"> | [PicWish Enhancer](https://picwish.com/photo-enhancer) | ✅ Limited | ✅ | AI upscaler with 2x/4x resolution increase preserving edge clarity. |
 | <img src="https://www.google.com/s2/favicons?domain=imglarger.com&sz=32" width="16"> | [AI Image Enlarger](https://imglarger.com) | ✅ Limited | ✅ | Enlarge images up to 800% without quality loss using deep learning. |
 | <img src="https://www.google.com/s2/favicons?domain=sparkpix.ai&sz=32" width="16"> | [SparkPix Unblur](https://sparkpix.ai/aitools/unblur-photo) | ✅ 5 credits | ❌ | AI unblur and sharpening for motion blur, out-of-focus, and low-light photos. Face optimization. |
+| <img src="https://www.google.com/s2/favicons?domain=imgupscaler.com&sz=32" width="16"> | [Imgupscaler](https://imgupscaler.com) | ✅ 20 credits/mo | ❌ | AI image upscaler that enlarges photos to 4K/16K without quality loss. |
+| <img src="https://www.google.com/s2/favicons?domain=upscale.media&sz=32" width="16"> | [Upscale.media](https://upscale.media) | ✅ Limited | ✅ | AI image upscaler for 2x-4x enlargement with bulk processing and API. |
+| <img src="https://www.google.com/s2/favicons?domain=aienhancer.ai&sz=32" width="16"> | [AIEnhancer](https://aienhancer.ai) | ✅ Free | ❌ | AI photo enhancer restoring colors, sharpening details, and upscaling to 4K. |
+| <img src="https://www.google.com/s2/favicons?domain=upsampler.com&sz=32" width="16"> | [Upsampler](https://upsampler.com) | ✅ Limited | ✅ | All-in-one AI platform for image upscaling, enhancement, and restoration. |
 
 ## Text & Watermark Removal
 
@@ -107,6 +112,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=snapeditor.com&sz=32" width="16"> | [SnapEdit](https://snapeditor.com) | ✅ Limited | ❌ | AI-powered object and text removal with auto-detection. |
 | <img src="https://www.google.com/s2/favicons?domain=removermarca.com&sz=32" width="16"> | [RemoverMarca](https://removermarca.com) | ❌ Paid | ❌ | AI 4K watermark removal with neural inpainting reconstruction. |
 | <img src="https://www.google.com/s2/favicons?domain=imagecleanr.com&sz=32" width="16"> | [ImageCleanr](https://imagecleanr.com) | ✅ Free | ❌ | Free removal of objects, people, text, and watermarks. No signup required. |
+| <img src="https://www.google.com/s2/favicons?domain=unwatermark.ai&sz=32" width="16"> | [Unwatermark AI](https://unwatermark.ai) | ✅ 3/day | ✅ | AI watermark remover for photos and videos. Cleans logos, text, and overlays. |
 
 ## Object Removal & Inpainting
 
@@ -147,6 +153,8 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=remaker.ai&sz=32" width="16"> | [Remaker](https://remaker.ai) | ✅ Free | ❌ | Free online face swap with natural lighting and expression matching. |
 | <img src="https://www.google.com/s2/favicons?domain=aifaceswap.io&sz=32" width="16"> | [AiFaceSwap](https://aifaceswap.io) | ✅ Free | ❌ | Free AI face swap online for photos and videos. No sign-up required. |
 | <img src="https://www.google.com/s2/favicons?domain=deepfaceswap.ai&sz=32" width="16"> | [DeepFaceSwap](https://deepfaceswap.ai) | ✅ Free | ❌ | Online face swapping with no watermarks. Single and multi-face support. |
+| <img src="https://www.google.com/s2/favicons?domain=beart.ai&sz=32" width="16"> | [BeArt AI](https://beart.ai) | ✅ Free | ❌ | Free AI face swap for photos, videos, and GIFs with batch processing. Weekly credits. |
+| <img src="https://www.google.com/s2/favicons?domain=reface.ai&sz=32" width="16"> | [Reface](https://reface.ai) | ✅ Limited | ❌ | AI face swap studio for creating face-swapped videos, GIFs, and AI avatars. |
 
 ## Photo Restoration & Colorization
 
@@ -174,6 +182,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=vizcom.ai&sz=32" width="16"> | [Vizcom](https://vizcom.ai) | ❌ From $49/mo | ❌ | AI style transfer for product and architectural design sketches. |
 | <img src="https://www.google.com/s2/favicons?domain=magichour.ai&sz=32" width="16"> | [Magic Hour](https://magichour.ai) | ✅ Limited | ✅ | Face swap, video style transfer, and image animation. |
 | <img src="https://www.google.com/s2/favicons?domain=piclumen.com&sz=32" width="16"> | [PicLumen](https://piclumen.com) | ✅ Free | ❌ | AI image generation with style transfer and artistic style application. |
+| <img src="https://www.google.com/s2/favicons?domain=domoai.app&sz=32" width="16"> | [DomoAI](https://domoai.app) | ✅ Limited | ✅ | AI animation platform for video-to-video style transfer, image-to-video, and avatars. |
 
 ## Image Compression & Optimization
 
@@ -198,6 +207,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=squoosh.app&sz=32" width="16"> | [Squoosh](https://squoosh.app) | ✅ Free | ❌ | Converts to AVIF, WebP, JPEG XL and more. |
 | <img src="https://www.google.com/s2/favicons?domain=zamzar.com&sz=32" width="16"> | [Zamzar](https://zamzar.com) | ✅ Limited | ✅ | Convert between 1200+ formats online. |
 | <img src="https://www.google.com/s2/favicons?domain=freeconvert.com&sz=32" width="16"> | [FreeConvert](https://freeconvert.com) | ✅ Limited | ✅ | Free online converter with advanced settings. |
+| <img src="https://www.google.com/s2/favicons?domain=vectorizer.ai&sz=32" width="16"> | [Vectorizer.AI](https://vectorizer.ai) | ✅ Preview | ✅ | AI-powered raster-to-vector converter turning PNG/JPG into clean SVG vectors. |
 
 ## AI Photo Editing Suites
 
@@ -216,6 +226,10 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=picsart.com&sz=32" width="16"> | [Picsart](https://picsart.com) | ✅ 5/week | ❌ | AI creative platform: background removal, effects, image generation. 150M+ MAU. From $5/mo. |
 | <img src="https://www.google.com/s2/favicons?domain=magicstudio.com&sz=32" width="16"> | [Magic Studio](https://magicstudio.com) | ✅ 40 free | ❌ | AI photo editing suite: background removal, eraser, AI image generation. |
 | <img src="https://www.google.com/s2/favicons?domain=nanobanana.com&sz=32" width="16"> | [Nano Banana AI](https://nanobanana.com) | ✅ 5 credits | ❌ | AI-powered photo editing with background removal and enhancement. |
+| <img src="https://www.google.com/s2/favicons?domain=vsco.co&sz=32" width="16"> | [VSCO](https://vsco.co) | ✅ Free tier | ❌ | Professional photo and video editor with 200+ presets and AI tools. 18M+ monthly users. |
+| <img src="https://www.google.com/s2/favicons?domain=airbrush.com&sz=32" width="16"> | [AirBrush](https://airbrush.com) | ✅ Free tier | ❌ | AI photo editor focused on portrait retouching, skin refinement, and selfie enhancement. |
+| <img src="https://www.google.com/s2/favicons?domain=befunky.com&sz=32" width="16"> | [BeFunky](https://befunky.com) | ✅ Free tier | ❌ | Online photo editor and collage maker with AI effects. No experience required. |
+| <img src="https://www.google.com/s2/favicons?domain=beautyplus.com&sz=32" width="16"> | [BeautyPlus](https://beautyplus.com) | ✅ Free tier | ❌ | AI selfie and photo editor with filters, retouching, and image generation tools. |
 
 ---
 
@@ -252,6 +266,12 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=sparkpix.ai&sz=32" width="16"> | [SparkPix AI](https://sparkpix.ai) | ✅ 5 credits | ❌ | Text-driven AI photo editing: generation, style transfer, colorization, headshots, and more. |
 | <img src="https://www.google.com/s2/favicons?domain=hailuoai.video&sz=32" width="16"> | [Hailuo AI (MiniMax)](https://hailuoai.video) | ✅ Limited | ✅ | MiniMax-powered Chinese AI for images and video. |
 | <img src="https://www.google.com/s2/favicons?domain=pixai.art&sz=32" width="16"> | [PixAI.art](https://pixai.art) | ✅ Free | ❌ | Anime-focused AI art with character consistency tools. |
+| <img src="https://www.google.com/s2/favicons?domain=deepai.org&sz=32" width="16"> | [DeepAI](https://deepai.org) | ✅ Free | ✅ | Pioneering AI platform with text-to-image generation and multiple ML model APIs. |
+| <img src="https://www.google.com/s2/favicons?domain=artguru.ai&sz=32" width="16"> | [Artguru AI](https://artguru.ai) | ✅ 5/day | ❌ | AI art generator with 10+ styles for text-to-image, enhancement, and avatars. |
+| <img src="https://www.google.com/s2/favicons?domain=imagine.art&sz=32" width="16"> | [Imagine.art](https://imagine.art) | ✅ 50 tokens/day | ✅ | AI creative suite for generating images, videos, and voice from text prompts. |
+| <img src="https://www.google.com/s2/favicons?domain=raphael.app&sz=32" width="16"> | [Raphael AI](https://raphael.app) | ✅ Free | ❌ | Free unlimited AI image generator with intelligent multi-model routing. |
+| <img src="https://www.google.com/s2/favicons?domain=stablediffusionweb.com&sz=32" width="16"> | [Stable Diffusion Online](https://stablediffusionweb.com) | ✅ Free | ❌ | Free browser-based interface for generating images with Stable Diffusion XL. |
+| <img src="https://www.google.com/s2/favicons?domain=craiyon.com&sz=32" width="16"> | [Craiyon](https://craiyon.com) | ✅ Free | ❌ | Free AI image generator (formerly DALL-E Mini) creating 9 images per prompt. |
 
 ## AI Logo & Brand Design
 
@@ -371,6 +391,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=pixelied.com&sz=32" width="16"> | [Pixelied](https://pixelied.com) | ✅ Free | ❌ | AI toolkit: BG remover, image generator, smart editor. 4M+ stock photos. |
 | <img src="https://www.google.com/s2/favicons?domain=desygner.com&sz=32" width="16"> | [Desygner](https://desygner.com) | ✅ Free | ❌ | Brand templating platform. 25M+ users. Lockable templates. |
 | <img src="https://www.google.com/s2/favicons?domain=snappa.com&sz=32" width="16"> | [Snappa](https://snappa.com) | ✅ Limited | ❌ | Quick graphic design for social media and ads. |
+| <img src="https://www.google.com/s2/favicons?domain=miricanvas.com&sz=32" width="16"> | [MiriCanvas](https://miricanvas.com) | ✅ Free tier | ❌ | Korean-origin online design tool with 530K+ templates and DALL-E 3 integration. |
 
 ## AI Presentation & Slide Design
 
@@ -405,6 +426,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=kaiber.ai&sz=32" width="16"> | [Kaiber](https://kaiber.ai) | ❌ From $5/mo | ❌ | Audio-reactive video synchronized to music beats. |
 | <img src="https://www.google.com/s2/favicons?domain=ltx.studio&sz=32" width="16"> | [LTX Studio](https://ltx.studio) | ✅ Limited | ❌ | Script-to-film platform. Up to 12,000 words to cinematic video. |
 | <img src="https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=32" width="16"> | [Higgsfield AI](https://higgsfield.ai) | ✅ Free credits | ❌ | Multi-model platform aggregating 15+ AI video models. |
+| <img src="https://www.google.com/s2/favicons?domain=pollo.ai&sz=32" width="16"> | [Pollo AI](https://pollo.ai) | ✅ Limited | ✅ | All-in-one AI video and image creation platform with 700+ model integrations. |
 
 ## Image-to-Video & Animation
 
@@ -444,6 +466,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=kapwing.com&sz=32" width="16"> | [Kapwing](https://kapwing.com) | ✅ Watermark | ❌ | Browser collaborative AI editor: subtitles, silence trim, clips. |
 | <img src="https://www.google.com/s2/favicons?domain=unscreen.com&sz=32" width="16"> | [Unscreen](https://unscreen.com) | ✅ GIF only | ✅ | Video background removal without green screen. |
 | <img src="https://www.google.com/s2/favicons?domain=autocut.com&sz=32" width="16"> | [AutoCut](https://autocut.com) | ✅ Limited | ❌ | Premiere/Resolve plugin removing silences and filler words. |
+| <img src="https://www.google.com/s2/favicons?domain=flexclip.com&sz=32" width="16"> | [FlexClip](https://flexclip.com) | ✅ Free tier | ❌ | Online video editor and maker with templates, AI tools, music, and animations. |
 
 ## AI Lip Sync & Talking Head
 
@@ -536,6 +559,8 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=imagga.com&sz=32" width="16"> | [Imagga](https://imagga.com) | ✅ Limited | Image recognition API: tagging, categorization, BG removal. |
 | <img src="https://www.google.com/s2/favicons?domain=prodia.com&sz=32" width="16"> | [Prodia](https://prodia.com) | ✅ Free | Fast SD API, no sign-up required. |
 | <img src="https://www.google.com/s2/favicons?domain=runware.ai&sz=32" width="16"> | [Runware](https://runware.ai) | ✅ Limited | High-performance image gen API. Extremely fast inference. |
+| <img src="https://www.google.com/s2/favicons?domain=pixelbin.io&sz=32" width="16"> | [PixelBin.io](https://pixelbin.io) | ✅ Free tier | AI image transformation and DAM platform with API, batch processing, and CDN delivery. |
+| <img src="https://www.google.com/s2/favicons?domain=wavespeed.ai&sz=32" width="16"> | [WaveSpeedAI](https://wavespeed.ai) | ✅ $1 credit | Developer API platform for AI image and video generation across 700+ models. |
 
 ## Browser Extensions & Plugins
 
