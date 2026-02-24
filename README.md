@@ -1,6 +1,6 @@
 # Awesome AI Image Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of 355+ AI-powered image and video tools for creators, designers, and developers.
+> A curated list of 300+ AI-powered image tools for creators, designers, and developers.
 
 Whether you're a content creator, designer, or developer, this list helps you find the best AI tools for image editing, enhancement, generation, and more.
 
@@ -36,14 +36,6 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 - [AI QR Code Generation](#ai-qr-code-generation)
 - [AI Graphic Design Platforms](#ai-graphic-design-platforms)
 - [AI Presentation & Slide Design](#ai-presentation--slide-design)
-
-**Video Tools**
-- [Text-to-Video Generation](#text-to-video-generation)
-- [Image-to-Video & Animation](#image-to-video--animation)
-- [Video Enhancement & Upscaling](#video-enhancement--upscaling)
-- [AI Video Editing](#ai-video-editing)
-- [AI Lip Sync & Talking Head](#ai-lip-sync--talking-head)
-- [AI Short-Form Video Creation](#ai-short-form-video-creation)
 
 **Developer & Platform Tools**
 - [Open Source Libraries & Models](#open-source-libraries--models)
@@ -406,95 +398,6 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 
 ---
 
-## Text-to-Video Generation
-
-| | Tool | Free Tier | API | Description |
-|:---:|------|-----------|-----|-------------|
-| <img src="https://www.google.com/s2/favicons?domain=sora.com&sz=32" width="16"> | [Sora 2 (OpenAI)](https://sora.com) | ❌ ChatGPT Plus | ✅ | Cinematic 15-25s clips at 1080p with synchronized native audio. |
-| <img src="https://www.google.com/s2/favicons?domain=runwayml.com&sz=32" width="16"> | [Runway Gen-4](https://runwayml.com) | ✅ 125 credits/mo | ✅ | Industry-standard creative video. Motion brushes, 4K upscaling. |
-| <img src="https://www.google.com/s2/favicons?domain=klingai.com&sz=32" width="16"> | [Kling 3.0](https://klingai.com) | ✅ Daily credits | ✅ | 15s clips with native multilingual audio. ~30% global market share. |
-| <img src="https://www.google.com/s2/favicons?domain=pika.art&sz=32" width="16"> | [Pika 2.5](https://pika.art) | ✅ Limited | ❌ | Pikaffects, Pikaswaps, keyframe Pikaframes. Best value starter. |
-| <img src="https://www.google.com/s2/favicons?domain=labs.google.com&sz=32" width="16"> | [Google Veo 3](https://labs.google.com/flow) | ✅ Via Gemini | ✅ | Up to 4K video with native audio. Top prompt adherence. |
-| <img src="https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=32" width="16"> | [Luma Dream Machine](https://lumalabs.ai) | ✅ ~10 free/mo | ✅ | Ray3 — world's first reasoning video model. HDR/EXR export. |
-| <img src="https://www.google.com/s2/favicons?domain=hailuoai.video&sz=32" width="16"> | [Hailuo AI (MiniMax)](https://hailuoai.video) | ✅ Daily credits | ✅ | Excels at anime, ink wash, CG. Micro-expression fidelity. |
-| <img src="https://www.google.com/s2/favicons?domain=vidu.io&sz=32" width="16"> | [Vidu AI](https://vidu.io) | ✅ Limited | ✅ | Chinese video AI. Clips in <10s at ~$0.04/sec. |
-| <img src="https://www.google.com/s2/favicons?domain=pixverse.ai&sz=32" width="16"> | [PixVerse](https://pixverse.ai) | ✅ Free | ✅ | 1080p with Audio-Visual Sync and Multi-Shot Architecture. |
-| <img src="https://www.google.com/s2/favicons?domain=seedance.ai&sz=32" width="16"> | [Seedance 2.0 (ByteDance)](https://seedance.ai) | ✅ Limited | ✅ | Dual-branch: video + audio simultaneously with lip sync. |
-| <img src="https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=32" width="16"> | [Adobe Firefly Video](https://firefly.adobe.com) | ✅ Limited | ✅ | Text-to-video in Premiere Pro/After Effects. Camera motion control. |
-| <img src="https://www.google.com/s2/favicons?domain=stability.ai&sz=32" width="16"> | [Stable Video Diffusion](https://stability.ai) | ✅ Open Source | ✅ | Open-source image-to-video. Run locally or via API. |
-| <img src="https://www.google.com/s2/favicons?domain=genmo.ai&sz=32" width="16"> | [Genmo](https://genmo.ai) | ✅ Free | ❌ | Experimental VFX presets and unique camera motion controls. |
-| <img src="https://www.google.com/s2/favicons?domain=kaiber.ai&sz=32" width="16"> | [Kaiber](https://kaiber.ai) | ❌ From $5/mo | ❌ | Audio-reactive video synchronized to music beats. |
-| <img src="https://www.google.com/s2/favicons?domain=ltx.studio&sz=32" width="16"> | [LTX Studio](https://ltx.studio) | ✅ Limited | ❌ | Script-to-film platform. Up to 12,000 words to cinematic video. |
-| <img src="https://www.google.com/s2/favicons?domain=higgsfield.ai&sz=32" width="16"> | [Higgsfield AI](https://higgsfield.ai) | ✅ Free credits | ❌ | Multi-model platform aggregating 15+ AI video models. |
-| <img src="https://www.google.com/s2/favicons?domain=pollo.ai&sz=32" width="16"> | [Pollo AI](https://pollo.ai) | ✅ Limited | ✅ | All-in-one AI video and image creation platform with 700+ model integrations. |
-
-## Image-to-Video & Animation
-
-| | Tool | Free Tier | API | Description |
-|:---:|------|-----------|-----|-------------|
-| <img src="https://www.google.com/s2/favicons?domain=runwayml.com&sz=32" width="16"> | [Runway I2V](https://runwayml.com) | ✅ Limited | ✅ | Animate images with motion brushes and camera paths. |
-| <img src="https://www.google.com/s2/favicons?domain=klingai.com&sz=32" width="16"> | [Kling I2V](https://klingai.com) | ✅ Daily credits | ✅ | Photorealistic motion from a single still. |
-| <img src="https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=32" width="16"> | [Luma I2V](https://lumalabs.ai) | ✅ Limited | ✅ | Physics-aware animation with HDR output. |
-| <img src="https://www.google.com/s2/favicons?domain=hedra.com&sz=32" width="16"> | [Hedra](https://hedra.com) | ✅ Free | ❌ | Portrait animation with talking, singing, micro-expressions. |
-| <img src="https://www.google.com/s2/favicons?domain=krea.ai&sz=32" width="16"> | [Krea AI](https://krea.ai) | ✅ Limited | ❌ | Real-time image animation with live canvas enhancement. |
-| <img src="https://www.google.com/s2/favicons?domain=d-id.com&sz=32" width="16"> | [D-ID](https://d-id.com) | ✅ Limited | ✅ | Portrait photos to talking videos with realistic lip sync. API-first. |
-| <img src="https://www.google.com/s2/favicons?domain=akool.com&sz=32" width="16"> | [Akool](https://akool.com) | ✅ Free | ✅ | 130+ lifelike avatars. Streaming and pre-recorded modes. |
-| <img src="https://www.google.com/s2/favicons?domain=viggle.ai&sz=32" width="16"> | [Viggle](https://viggle.ai) | ✅ Free | ❌ | Character animation with realistic body motion transfer. |
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [LivePortrait](https://github.com) | ✅ Open Source | ✅ | Open-source portrait animation from reference video. |
-
-## Video Enhancement & Upscaling
-
-| | Tool | Free Tier | API | Description |
-|:---:|------|-----------|-----|-------------|
-| <img src="https://www.google.com/s2/favicons?domain=topazlabs.com&sz=32" width="16"> | [Topaz Video AI](https://topazlabs.com/topaz-video-ai) | ❌ Demo | ❌ | Pro desktop: upscale 8K, denoise, stabilize, frame interpolate. |
-| <img src="https://www.google.com/s2/favicons?domain=unifab.ai&sz=32" width="16"> | [UniFab](https://unifab.ai) | ❌ Trial | ❌ | 17+ AI tools, up to 16K upscaling. Fastest GPU processing. |
-| <img src="https://www.google.com/s2/favicons?domain=hitpaw.com&sz=32" width="16"> | [HitPaw VikPea](https://hitpaw.com) | ❌ Trial | ❌ | One-click 4K/8K upscaling with Denoise, Face, Colorize models. |
-| <img src="https://www.google.com/s2/favicons?domain=avclabs.com&sz=32" width="16"> | [AVCLabs Video Enhancer](https://avclabs.com) | ❌ Trial | ❌ | Frame-by-frame AI enhancement with face feature focus. |
-| <img src="https://www.google.com/s2/favicons?domain=capcut.com&sz=32" width="16"> | [CapCut](https://capcut.com) | ✅ Free | ✅ | Video editor with built-in AI enhancement features. |
-| <img src="https://www.google.com/s2/favicons?domain=vmake.ai&sz=32" width="16"> | [Vmake AI](https://vmake.ai) | ✅ Limited | ✅ | Cloud-based video enhancement with API. |
-| <img src="https://www.google.com/s2/favicons?domain=neatvideo.com&sz=32" width="16"> | [Neat Video](https://neatvideo.com) | ❌ Demo | ❌ | Pro plugin for Premiere/Resolve/AE. Superior noise reduction. |
-| <img src="https://www.google.com/s2/favicons?domain=blackmagicdesign.com&sz=32" width="16"> | [DaVinci Resolve](https://blackmagicdesign.com) | ✅ Free | ❌ | Pro color grading + AI Color Match, Magic Mask, stabilization. |
-
-## AI Video Editing
-
-| | Tool | Free Tier | API | Description |
-|:---:|------|-----------|-----|-------------|
-| <img src="https://www.google.com/s2/favicons?domain=descript.com&sz=32" width="16"> | [Descript](https://descript.com) | ✅ Limited | ❌ | Edit video by editing transcript. Overdub voice cloning. |
-| <img src="https://www.google.com/s2/favicons?domain=capcut.com&sz=32" width="16"> | [CapCut](https://capcut.com) | ✅ Free | ✅ | ByteDance's AI editor: autocut, scene detect, auto-captions. |
-| <img src="https://www.google.com/s2/favicons?domain=opus.pro&sz=32" width="16"> | [Opus Clip](https://opus.pro) | ✅ Limited | ❌ | Long-form to viral short clips. Hook detection, virality scoring. |
-| <img src="https://www.google.com/s2/favicons?domain=pictory.ai&sz=32" width="16"> | [Pictory](https://pictory.ai) | ✅ Trial | ✅ | Blog posts to short branded social videos. |
-| <img src="https://www.google.com/s2/favicons?domain=kapwing.com&sz=32" width="16"> | [Kapwing](https://kapwing.com) | ✅ Watermark | ❌ | Browser collaborative AI editor: subtitles, silence trim, clips. |
-| <img src="https://www.google.com/s2/favicons?domain=unscreen.com&sz=32" width="16"> | [Unscreen](https://unscreen.com) | ✅ GIF only | ✅ | Video background removal without green screen. |
-| <img src="https://www.google.com/s2/favicons?domain=autocut.com&sz=32" width="16"> | [AutoCut](https://autocut.com) | ✅ Limited | ❌ | Premiere/Resolve plugin removing silences and filler words. |
-| <img src="https://www.google.com/s2/favicons?domain=flexclip.com&sz=32" width="16"> | [FlexClip](https://flexclip.com) | ✅ Free tier | ❌ | Online video editor and maker with templates, AI tools, music, and animations. |
-
-## AI Lip Sync & Talking Head
-
-| | Tool | Free Tier | API | Description |
-|:---:|------|-----------|-----|-------------|
-| <img src="https://www.google.com/s2/favicons?domain=heygen.com&sz=32" width="16"> | [HeyGen](https://heygen.com) | ✅ 1 min/mo | ✅ | 240+ avatars, 172-language lip-synced video translation. |
-| <img src="https://www.google.com/s2/favicons?domain=synthesia.io&sz=32" width="16"> | [Synthesia](https://synthesia.io) | ✅ Trial | ✅ | 240+ avatars, 140+ languages, Express-2 full-body gesture AI. |
-| <img src="https://www.google.com/s2/favicons?domain=d-id.com&sz=32" width="16"> | [D-ID](https://d-id.com) | ✅ Limited | ✅ | Talking avatars + conversational AI agents. Developer-friendly. |
-| <img src="https://www.google.com/s2/favicons?domain=colossyan.com&sz=32" width="16"> | [Colossyan](https://colossyan.com) | ✅ 5 min free | ❌ | 200+ avatars, 70+ languages, strong LMS integrations. |
-| <img src="https://www.google.com/s2/favicons?domain=elai.io&sz=32" width="16"> | [Elai.io](https://elai.io) | ✅ 1 min/mo | ✅ | E-learning focused avatar video with multilingual localization. |
-| <img src="https://www.google.com/s2/favicons?domain=sync.so&sz=32" width="16"> | [Sync.so](https://sync.so) | ✅ Limited | ✅ | API-first lip sync for high-volume business pipelines. |
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) | ✅ Open Source | ✅ | Open-source audio-driven lip generation on existing footage. |
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [SadTalker](https://github.com/OpenTalker/SadTalker) | ✅ Open Source | ✅ | Single-image talking head animation driven by audio. |
-
-## AI Short-Form Video Creation
-
-| | Tool | Free Tier | API | Description |
-|:---:|------|-----------|-----|-------------|
-| <img src="https://www.google.com/s2/favicons?domain=invideo.ai&sz=32" width="16"> | [InVideo AI](https://invideo.ai) | ✅ Watermark | ❌ | Complete TikTok/Reels scripts, voiceovers, video from text. |
-| <img src="https://www.google.com/s2/favicons?domain=opus.pro&sz=32" width="16"> | [Opus Clip](https://opus.pro) | ✅ Limited | ❌ | Long-to-short with virality scoring and vertical reframing. |
-| <img src="https://www.google.com/s2/favicons?domain=submagic.co&sz=32" width="16"> | [Submagic](https://submagic.co) | ✅ Watermark | ❌ | AI captions with trendy animations and emoji for TikTok/Reels. |
-| <img src="https://www.google.com/s2/favicons?domain=klap.app&sz=32" width="16"> | [Klap](https://klap.app) | ✅ Limited | ❌ | YouTube to TikTok clip creator. Highest-engagement moments. |
-| <img src="https://www.google.com/s2/favicons?domain=captions.ai&sz=32" width="16"> | [Captions.ai](https://captions.ai) | ✅ Free | ❌ | Mobile-first AI captions with word-by-word highlighting. |
-| <img src="https://www.google.com/s2/favicons?domain=revid.ai&sz=32" width="16"> | [Revid AI](https://revid.ai) | ✅ Limited | ❌ | Faceless viral video creation with scripts and stock footage. |
-| <img src="https://www.google.com/s2/favicons?domain=vizard.ai&sz=32" width="16"> | [Vizard](https://vizard.ai) | ✅ 60 min/mo | ❌ | AI video repurposing with subtitles and speaker detection. |
-
----
-
 ## Open Source Libraries & Models
 
 ### Image Generation & Editing
@@ -524,18 +427,6 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=python-pillow.org&sz=32" width="16"> | [Pillow](https://github.com/python-pillow/Pillow) | Python | Essential PIL fork for image manipulation. 12k+ stars. |
 | <img src="https://www.google.com/s2/favicons?domain=imagemagick.org&sz=32" width="16"> | [ImageMagick](https://imagemagick.org) | C | Swiss-army knife for image conversion and manipulation. |
 
-### Video Generation (Open Source)
-
-| | Library | Language | Description |
-|:---:|---------|----------|-------------|
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [Wan 2.1 (Alibaba)](https://github.com/Wan-AI-Team) | Python | #1 on VBench. 14B params. T2V + I2V. Apache 2.0. |
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [HunyuanVideo (Tencent)](https://github.com/Tencent/HunyuanVideo) | Python | 13B params. 15s at 24fps 720p. Open weights. |
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [Mochi 1 (Genmo)](https://github.com/genmoai/mochi) | Python | 10B AsymmDiT for high-fidelity motion. Apache 2.0. |
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [LTXVideo (Lightricks)](https://github.com/Lightricks/LTXVideo) | Python | Fast video gen optimized for mid-range GPUs. Apache 2.0. |
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [AnimateDiff](https://github.com/guoyww/AnimateDiff) | Python | Motion module for turning SD images into animations. |
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [Whisper (OpenAI)](https://github.com/openai/whisper) | Python | ~98% accuracy speech-to-text. 99 languages. Open source. |
-| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [Flowframes](https://github.com/n00mkrad/flowframes) | Python | Open-source frame interpolation GUI (RIFE/DAIN/FLAVR). |
-
 ## APIs & Platforms
 
 | | Platform | Free Tier | Description |
@@ -543,16 +434,12 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=replicate.com&sz=32" width="16"> | [Replicate](https://replicate.com) | ✅ $10 credit | 200+ models. Pay-per-second GPU. FLUX, SD, video. |
 | <img src="https://www.google.com/s2/favicons?domain=fal.ai&sz=32" width="16"> | [fal.ai](https://fal.ai) | ✅ $5 credit | 600+ models. 30-50% cheaper. Lowest latency. |
 | <img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=32" width="16"> | [Hugging Face](https://huggingface.co) | ✅ Rate-limited | All major open-source models. Serverless or dedicated. |
-| <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16"> | [OpenAI API](https://platform.openai.com) | ✅ $5 credit | DALL-E 3, GPT-4o vision, Sora video. |
-| <img src="https://www.google.com/s2/favicons?domain=stability.ai&sz=32" width="16"> | [Stability AI API](https://platform.stability.ai) | ✅ 25 credits | SD 3.5, Stable Image Ultra, Stable Video. |
-| <img src="https://www.google.com/s2/favicons?domain=cloud.google.com&sz=32" width="16"> | [Google Vertex AI](https://cloud.google.com/vertex-ai) | ✅ Free tier | Imagen 3, Veo 3. Enterprise-grade. |
+| <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16"> | [OpenAI API](https://platform.openai.com) | ✅ $5 credit | DALL-E 3, GPT-4o vision. |
+| <img src="https://www.google.com/s2/favicons?domain=stability.ai&sz=32" width="16"> | [Stability AI API](https://platform.stability.ai) | ✅ 25 credits | SD 3.5, Stable Image Ultra. |
+| <img src="https://www.google.com/s2/favicons?domain=cloud.google.com&sz=32" width="16"> | [Google Vertex AI](https://cloud.google.com/vertex-ai) | ✅ Free tier | Imagen 3. Enterprise-grade. |
 | <img src="https://www.google.com/s2/favicons?domain=cloudinary.com&sz=32" width="16"> | [Cloudinary](https://cloudinary.com) | ✅ 25 credits/mo | Media management + AI features via CDN API. |
 | <img src="https://www.google.com/s2/favicons?domain=adobe.com&sz=32" width="16"> | [Adobe Firefly API](https://developer.adobe.com/firefly-api) | ❌ Paid | Commercially safe. Firefly + FLUX + Ideogram + Runway. |
 | <img src="https://www.google.com/s2/favicons?domain=bfl.ai&sz=32" width="16"> | [Black Forest Labs API](https://api.bfl.ml) | ❌ Paid | FLUX Pro, FLUX Kontext for image editing. |
-| <img src="https://www.google.com/s2/favicons?domain=runwayml.com&sz=32" width="16"> | [Runway API](https://runwayml.com/api) | ❌ Paid | Gen-4 video. Industry standard. |
-| <img src="https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=32" width="16"> | [Luma AI API](https://lumalabs.ai) | ❌ Paid | Dream Machine / Ray3 video. HDR. |
-| <img src="https://www.google.com/s2/favicons?domain=klingai.com&sz=32" width="16"> | [Kling API](https://klingai.com) | ✅ Limited | 1080p video up to 2 minutes. |
-| <img src="https://www.google.com/s2/favicons?domain=platform.minimax.io&sz=32" width="16"> | [MiniMax API](https://platform.minimax.io) | ✅ Limited | Hailuo video. ~$0.04/sec. |
 | <img src="https://www.google.com/s2/favicons?domain=siliconflow.cn&sz=32" width="16"> | [SiliconFlow](https://siliconflow.cn) | ✅ Free tier | Chinese API aggregator. Open-source models at low cost. |
 | <img src="https://www.google.com/s2/favicons?domain=imgix.com&sz=32" width="16"> | [imgix](https://imgix.com) | ✅ Limited | Real-time URL-based image processing and CDN. |
 | <img src="https://www.google.com/s2/favicons?domain=imagekit.io&sz=32" width="16"> | [ImageKit](https://imagekit.io) | ✅ Free tier | Image CDN with real-time optimization and delivery. |
@@ -560,7 +447,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=prodia.com&sz=32" width="16"> | [Prodia](https://prodia.com) | ✅ Free | Fast SD API, no sign-up required. |
 | <img src="https://www.google.com/s2/favicons?domain=runware.ai&sz=32" width="16"> | [Runware](https://runware.ai) | ✅ Limited | High-performance image gen API. Extremely fast inference. |
 | <img src="https://www.google.com/s2/favicons?domain=pixelbin.io&sz=32" width="16"> | [PixelBin.io](https://pixelbin.io) | ✅ Free tier | AI image transformation and DAM platform with API, batch processing, and CDN delivery. |
-| <img src="https://www.google.com/s2/favicons?domain=wavespeed.ai&sz=32" width="16"> | [WaveSpeedAI](https://wavespeed.ai) | ✅ $1 credit | Developer API platform for AI image and video generation across 700+ models. |
+| <img src="https://www.google.com/s2/favicons?domain=wavespeed.ai&sz=32" width="16"> | [WaveSpeedAI](https://wavespeed.ai) | ✅ $1 credit | Developer API platform for AI image generation across 700+ models. |
 
 ## Browser Extensions & Plugins
 
@@ -580,7 +467,6 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 - **Just need one thing done?** → Use a dedicated tool (Remove.bg, TinyPNG)
 - **Need multiple editing features?** → Adobe Photoshop or Canva
 - **Best image quality?** → Midjourney or FLUX for generation, Topaz for enhancement
-- **Best video generation?** → Sora 2, Kling 3.0, or Runway Gen-4
 - **On a budget?** → Open source section + free tier tools
 - **Building a product?** → APIs: Replicate, fal.ai, or provider APIs
 - **Want local processing?** → Upscayl, ComfyUI, IOPaint, or SD WebUI
