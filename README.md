@@ -74,6 +74,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=insmind.com&sz=32" width="16"> | [insMind](https://insmind.com) | ✅ Trial | ❌ | AI background removal and object erasure with 3-day free trial. |
 | <img src="https://www.google.com/s2/favicons?domain=photiu.ai&sz=32" width="16"> | [Photiu.ai](https://photiu.ai) | ✅ Free | ❌ | Free AI background removal, object erasure, and upscaling. No login required. |
 | <img src="https://www.google.com/s2/favicons?domain=blend.so&sz=32" width="16"> | [Blend](https://blend.so) | ✅ Limited | ❌ | AI background eraser with AI-generated background replacement. |
+| <img src="https://www.google.com/s2/favicons?domain=pixian.ai&sz=32" width="16"> | [Pixian.ai](https://pixian.ai) | ✅ Limited | ✅ | AI background removal up to 25MP. Great for objects, logos, hair/fur. Drop-in remove.bg replacement. |
 
 ## Image Upscaling & Enhancement
 
@@ -91,6 +92,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=nero.ai&sz=32" width="16"> | [Nero AI](https://nero.ai) | ✅ Limited | ✅ | Cloud-based image upscaling and enhancement with API. |
 | <img src="https://www.google.com/s2/favicons?domain=picwish.com&sz=32" width="16"> | [PicWish Enhancer](https://picwish.com/photo-enhancer) | ✅ Limited | ✅ | AI upscaler with 2x/4x resolution increase preserving edge clarity. |
 | <img src="https://www.google.com/s2/favicons?domain=imglarger.com&sz=32" width="16"> | [AI Image Enlarger](https://imglarger.com) | ✅ Limited | ✅ | Enlarge images up to 800% without quality loss using deep learning. |
+| <img src="https://www.google.com/s2/favicons?domain=sparkpix.ai&sz=32" width="16"> | [SparkPix Unblur](https://sparkpix.ai/aitools/unblur-photo) | ✅ 5 credits | ❌ | AI unblur and sharpening for motion blur, out-of-focus, and low-light photos. Face optimization. |
 
 ## Text & Watermark Removal
 
@@ -247,6 +249,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=novelai.net&sz=32" width="16"> | [NovelAI](https://novelai.net) | ❌ Paid | ❌ | AI storytelling + anime image generation on licensed data. |
 | <img src="https://www.google.com/s2/favicons?domain=imagine.meta.com&sz=32" width="16"> | [Meta Imagine](https://imagine.meta.com) | ✅ Free | ❌ | Meta's AI image generator powered by Emu model. |
 | <img src="https://www.google.com/s2/favicons?domain=jimeng.jianying.com&sz=32" width="16"> | [Jimeng AI (即梦)](https://jimeng.jianying.com) | ✅ Free | ❌ | ByteDance's Chinese text-to-image with native font support. |
+| <img src="https://www.google.com/s2/favicons?domain=sparkpix.ai&sz=32" width="16"> | [SparkPix AI](https://sparkpix.ai) | ✅ 5 credits | ❌ | Text-driven AI photo editing: generation, style transfer, colorization, headshots, and more. |
 | <img src="https://www.google.com/s2/favicons?domain=hailuoai.video&sz=32" width="16"> | [Hailuo AI (MiniMax)](https://hailuoai.video) | ✅ Limited | ✅ | MiniMax-powered Chinese AI for images and video. |
 | <img src="https://www.google.com/s2/favicons?domain=pixai.art&sz=32" width="16"> | [PixAI.art](https://pixai.art) | ✅ Free | ❌ | Anime-focused AI art with character consistency tools. |
 
