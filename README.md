@@ -105,6 +105,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=removermarca.com&sz=32" width="16"> | [RemoverMarca](https://removermarca.com) | ❌ Paid | ❌ | AI 4K watermark removal with neural inpainting reconstruction. |
 | <img src="https://www.google.com/s2/favicons?domain=imagecleanr.com&sz=32" width="16"> | [ImageCleanr](https://imagecleanr.com) | ✅ Free | ❌ | Free removal of objects, people, text, and watermarks. No signup required. |
 | <img src="https://www.google.com/s2/favicons?domain=unwatermark.ai&sz=32" width="16"> | [Unwatermark AI](https://unwatermark.ai) | ✅ 3/day | ✅ | AI watermark remover for photos and videos. Cleans logos, text, and overlays. |
+| <img src="https://www.google.com/s2/favicons?domain=removetexts.com&sz=32" width="16"> | [RemoveTexts](https://removetexts.com) | ✅ Free | ❌ | AI text and watermark remover with auto-detection. Free, no signup, no watermark on results. |
 
 ## Object Removal & Inpainting
 
