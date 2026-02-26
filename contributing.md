@@ -1,6 +1,6 @@
 # Contributing to Awesome AI Image Tools
 
-Thank you for your interest in contributing! This list aims to be the most comprehensive, up-to-date resource for AI-powered image and video tools.
+Thank you for your interest in contributing! This list aims to be the most comprehensive, up-to-date resource for AI-powered image tools.
 
 ## How to Submit
 

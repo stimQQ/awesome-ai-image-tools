@@ -2,7 +2,7 @@
 
 **Tool Name:**
 **Website URL:**
-**Category:** <!-- e.g. Background Removal, Image Generation, Video Generation -->
+**Category:** <!-- e.g. Background Removal, Image Generation, Style Transfer -->
 
 ### Checklist
 

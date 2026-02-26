@@ -4,13 +4,8 @@
 
 Whether you're a content creator, designer, or developer, this list helps you find the best AI tools for image editing, enhancement, generation, and more.
 
-**Contributions welcome!** Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a PR.
-
----
-
 ## Contents
 
-**Image Editing & Processing**
 - [Background Removal](#background-removal)
 - [Image Upscaling & Enhancement](#image-upscaling--enhancement)
 - [Text & Watermark Removal](#text--watermark-removal)
@@ -22,8 +17,6 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 - [Image Compression & Optimization](#image-compression--optimization)
 - [Format Conversion](#format-conversion)
 - [AI Photo Editing Suites](#ai-photo-editing-suites)
-
-**Image Generation & Design**
 - [Text-to-Image Generation](#text-to-image-generation)
 - [AI Logo & Brand Design](#ai-logo--brand-design)
 - [AI Avatar & Headshot Generation](#ai-avatar--headshot-generation)
@@ -36,13 +29,9 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 - [AI QR Code Generation](#ai-qr-code-generation)
 - [AI Graphic Design Platforms](#ai-graphic-design-platforms)
 - [AI Presentation & Slide Design](#ai-presentation--slide-design)
-
-**Developer & Platform Tools**
 - [Open Source Libraries & Models](#open-source-libraries--models)
 - [APIs & Platforms](#apis--platforms)
 - [Browser Extensions & Plugins](#browser-extensions--plugins)
-
----
 
 ## Background Removal
 
@@ -224,8 +213,6 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=befunky.com&sz=32" width="16"> | [BeFunky](https://befunky.com) | ✅ Free tier | ❌ | Online photo editor and collage maker with AI effects. No experience required. |
 | <img src="https://www.google.com/s2/favicons?domain=beautyplus.com&sz=32" width="16"> | [BeautyPlus](https://beautyplus.com) | ✅ Free tier | ❌ | AI selfie and photo editor with filters, retouching, and image generation tools. |
 
----
-
 ## Text-to-Image Generation
 
 | | Tool | Free Tier | API | Description |
@@ -397,8 +384,6 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=pitch.com&sz=32" width="16"> | [Pitch](https://pitch.com) | ✅ Free | ❌ | Collaborative presentations with AI-assisted design. |
 | <img src="https://www.google.com/s2/favicons?domain=presentations.ai&sz=32" width="16"> | [Presentations.ai](https://presentations.ai) | ✅ Limited | ❌ | Conversational AI slide builder with infographics/charts. |
 
----
-
 ## Open Source Libraries & Models
 
 ### Image Generation & Editing
@@ -454,35 +439,13 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 
 | | Extension | Platform | Free | Description |
 |:---:|-----------|----------|------|-------------|
-| <img src="https://www.google.com/s2/favicons?domain=remove.bg&sz=32" width="16"> | [Remove.bg Extension](https://remove.bg) | Chrome, Firefox | ✅ Limited | One-click BG removal on any web page. |
+| <img src="https://www.google.com/s2/favicons?domain=remove.bg&sz=32" width="16"> | [Remove.bg Extension](https://www.remove.bg/tools) | Chrome, Firefox | ✅ Limited | One-click BG removal on any web page. |
 | <img src="https://www.google.com/s2/favicons?domain=clipdrop.co&sz=32" width="16"> | [Clipdrop Extension](https://clipdrop.co) | Chrome | ✅ Limited | Clip images and apply AI tools in browser. |
 | <img src="https://www.google.com/s2/favicons?domain=adobe.com&sz=32" width="16"> | [Adobe Express Extension](https://adobe.com/express) | Chrome | ✅ Free | BG removal, resize, and AI tools in browser. |
 | <img src="https://www.google.com/s2/favicons?domain=canva.com&sz=32" width="16"> | [Canva Extension](https://canva.com) | Chrome | ✅ Free | Canva's AI design tools from any tab. |
 | <img src="https://www.google.com/s2/favicons?domain=sider.ai&sz=32" width="16"> | [Sider AI](https://sider.ai) | Chrome | ✅ Limited | AI sidebar with image generation. |
 | <img src="https://www.google.com/s2/favicons?domain=tineye.com&sz=32" width="16"> | [TinEye](https://tineye.com) | Chrome, Firefox | ✅ Free | Reverse image search for source finding. |
 
----
-
-## How to Choose
-
-- **Just need one thing done?** → Use a dedicated tool (Remove.bg, TinyPNG)
-- **Need multiple editing features?** → Adobe Photoshop or Canva
-- **Best image quality?** → Midjourney or FLUX for generation, Topaz for enhancement
-- **On a budget?** → Open source section + free tier tools
-- **Building a product?** → APIs: Replicate, fal.ai, or provider APIs
-- **Want local processing?** → Upscayl, ComfyUI, IOPaint, or SD WebUI
-- **Need commercially safe AI?** → Adobe Firefly (licensed training data)
-- **Interior/Architecture?** → RoomGPT, REimagineHome, Spacely AI
-- **Fashion e-commerce?** → FASHN.ai, WeShop AI, Kling Try-On
-- **Product photography?** → Pebblely, Flair AI, PhotoRoom, Caspa AI
-- **Face swap?** → FaceSwapper, DeepSwapper, Remaker
-
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+Contributions are welcome! Please read the [contributing guidelines](contributing.md) first.
