@@ -273,6 +273,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | | Tool | Free Tier | API | Description |
 |:---:|------|-----------|-----|-------------|
 | <img src="https://www.google.com/s2/favicons?domain=headshotpro.com&sz=32" width="16"> | [HeadshotPro](https://headshotpro.com) | ❌ Paid | ❌ | Enterprise AI headshots used by Fortune 500 companies. |
+| <img src="https://www.google.com/s2/favicons?domain=headshotcraft.com&sz=32" width="16"> | [HeadshotCraft](https://headshotcraft.com) | ✅ 3 free | ❌ | Turn one selfie into 50+ studio-quality AI headshots for LinkedIn, resumes, and team pages. |
 | <img src="https://www.google.com/s2/favicons?domain=aragon.ai&sz=32" width="16"> | [Aragon AI](https://aragon.ai) | ❌ Paid | ❌ | Up to 100 professional headshots per session. |
 | <img src="https://www.google.com/s2/favicons?domain=dreamwave.ai&sz=32" width="16"> | [Dreamwave AI](https://dreamwave.ai) | ❌ Paid | ❌ | Studio-quality AI headshots from selfies. |
 | <img src="https://www.google.com/s2/favicons?domain=profilepicture.ai&sz=32" width="16"> | [ProfilePicture.ai](https://profilepicture.ai) | ❌ Paid | ❌ | Profile pictures for LinkedIn, social media, resumes. |
