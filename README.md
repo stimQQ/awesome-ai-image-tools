@@ -100,6 +100,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 
 | | Tool | Free Tier | API | Description |
 |:---:|------|-----------|-----|-------------|
+| <img src="https://www.google.com/s2/favicons?domain=clearcrowds.com&sz=32" width="16"> | [ClearCrowds](https://clearcrowds.com) | ✅ Limited | ❌ | AI photo cleanup editor for removing crowds, unwanted objects, clutter, and other distractions with presets and natural-language prompts. |
 | <img src="https://www.google.com/s2/favicons?domain=cleanup.pictures&sz=32" width="16"> | [Cleanup.pictures](https://cleanup.pictures) | ✅ Limited | ✅ | Brush-based object removal with AI inpainting. Simple and effective. |
 | <img src="https://www.google.com/s2/favicons?domain=magiceraser.io&sz=32" width="16"> | [Magic Eraser](https://magiceraser.io) | ✅ Limited | ❌ | Simple tool to remove unwanted objects from photos. |
 | <img src="https://www.google.com/s2/favicons?domain=iopaint.com&sz=32" width="16"> | [IOPaint (Lama Cleaner)](https://iopaint.com) | ✅ Free & OSS | ✅ | Open-source inpainting. Supports LaMa, MAT, SD Inpainting + SAM plugin. |
