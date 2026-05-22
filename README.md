@@ -297,6 +297,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 
 | | Tool | Free Tier | API | Description |
 |:---:|------|-----------|-----|-------------|
+| <img src="https://www.google.com/s2/favicons?domain=landscapioai.com&sz=32" width="16"> | [LandscapioAI](https://www.landscapioai.com/) | ✅ Free | ❌ | AI landscape design generator with before/after yard concepts and cost estimates. |
 | <img src="https://www.google.com/s2/favicons?domain=roomgpt.io&sz=32" width="16"> | [RoomGPT](https://roomgpt.io) | ✅ Limited | ❌ | AI room redesign tool. 2M+ users. Style-transfer renovations. |
 | <img src="https://www.google.com/s2/favicons?domain=reimaginehome.ai&sz=32" width="16"> | [REimagineHome](https://reimaginehome.ai) | ✅ Limited | ❌ | Virtual staging for real estate. Auto-stage in under 60 seconds. |
 | <img src="https://www.google.com/s2/favicons?domain=interiorai.com&sz=32" width="16"> | [Interior AI](https://interiorai.com) | ✅ Limited | ❌ | Transform room photos into styled design concepts. |
