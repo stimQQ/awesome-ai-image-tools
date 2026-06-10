@@ -185,6 +185,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 |:---:|------|-----------|-----|-------------|
 | <img src="https://www.google.com/s2/favicons?domain=cloudconvert.com&sz=32" width="16"> | [CloudConvert](https://cloudconvert.com) | ✅ 25/day | ✅ | 200+ formats including AVIF, WebP, HEIC. |
 | <img src="https://www.google.com/s2/favicons?domain=convertio.co&sz=32" width="16"> | [Convertio](https://convertio.co) | ✅ Limited | ✅ | Online converter for all major image formats. |
+| <img src="https://www.google.com/s2/favicons?domain=freepngconvert.com&sz=32" width="16"> | [FreePNGConvert](https://freepngconvert.com) | ✅ Free | ❌ | Browser-based WebP to PNG converter. No upload, privacy-first. |
 | <img src="https://www.google.com/s2/favicons?domain=ezgif.com&sz=32" width="16"> | [ezgif](https://ezgif.com) | ✅ Free | ❌ | GIF maker and format converter. Great for WebP/AVIF. |
 | <img src="https://www.google.com/s2/favicons?domain=squoosh.app&sz=32" width="16"> | [Squoosh](https://squoosh.app) | ✅ Free | ❌ | Converts to AVIF, WebP, JPEG XL and more. |
 | <img src="https://www.google.com/s2/favicons?domain=zamzar.com&sz=32" width="16"> | [Zamzar](https://zamzar.com) | ✅ Limited | ✅ | Convert between 1200+ formats online. |
