@@ -397,6 +397,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=32" width="16"> | [Diffusers](https://github.com/huggingface/diffusers) | Python | Primary library for diffusion models. 25k+ stars. By HuggingFace. |
 | <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [ControlNet](https://github.com/lllyasviel/ControlNet) | Python | Structural conditioning: depth, edge, pose. 30k+ stars. |
 | <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) | Python | Image prompt adapter for SD/FLUX. Style/content reference. |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="16"> | [RunAPI GPT Image 2 SDK](https://github.com/runapi-ai/gpt-image-2-sdk) | JS/Ruby/Go | SDKs for building GPT Image 2 image-generation API workflows. |
 
 ### Image Enhancement & Processing
 
