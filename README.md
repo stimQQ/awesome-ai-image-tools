@@ -212,6 +212,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=airbrush.com&sz=32" width="16"> | [AirBrush](https://airbrush.com) | ✅ Free tier | ❌ | AI photo editor focused on portrait retouching, skin refinement, and selfie enhancement. |
 | <img src="https://www.google.com/s2/favicons?domain=befunky.com&sz=32" width="16"> | [BeFunky](https://befunky.com) | ✅ Free tier | ❌ | Online photo editor and collage maker with AI effects. No experience required. |
 | <img src="https://www.google.com/s2/favicons?domain=beautyplus.com&sz=32" width="16"> | [BeautyPlus](https://beautyplus.com) | ✅ Free tier | ❌ | AI selfie and photo editor with filters, retouching, and image generation tools. |
+| <img src="https://www.google.com/s2/favicons?domain=geoimagetagger.com&sz=32" width="16"> | [GeoImageTagger](https://geoimagetagger.com) | ✅ 5/day | ❌ | AI-powered image geotagging and EXIF/IPTC/XMP metadata editor with photo location detection, 8 free browser-based tools, and fully client-side processing. |
 
 ## Text-to-Image Generation
 
