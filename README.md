@@ -318,6 +318,8 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=thenewblack.ai&sz=32" width="16"> | [The New Black](https://thenewblack.ai) | ✅ Limited | ❌ | AI fashion design + virtual try-on for designers. |
 | <img src="https://www.google.com/s2/favicons?domain=perfectcorp.com&sz=32" width="16"> | [Perfect Corp](https://perfectcorp.com) | ✅ Limited | ✅ | Enterprise beauty/fashion try-on SDK for retail brands. |
 | <img src="https://www.google.com/s2/favicons?domain=weshop.ai&sz=32" width="16"> | [WeShop AI](https://weshop.ai) | ✅ Limited | ❌ | AI product photography + model generation for e-commerce. |
+| <img src="https://www.google.com/s2/favicons?domain=stil.gracestack.se&sz=32" width="16"> | [STIL.AI](https://stil.gracestack.se) | ✅ Free | ❌ | AI fashion design platform — generate unique clothing from text descriptions. |
+| <img src="https://www.google.com/s2/favicons?domain=stil.gracestack.se&sz=32" width="16"> | [STIL.AI Outfit Generator](https://stil.gracestack.se/outfit) | ✅ Free | ❌ | Free AI tool to generate custom clothing designs in seconds from text prompts. |
 
 ## AI Product Photography
 
