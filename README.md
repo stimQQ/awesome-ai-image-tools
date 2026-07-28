@@ -219,6 +219,8 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 |:---:|------|-----------|-----|-------------|
 | <img src="https://www.google.com/s2/favicons?domain=midjourney.com&sz=32" width="16"> | [Midjourney](https://midjourney.com) | ❌ $10/mo | ❌ | Leading AI image generator. Cinematic, artistic quality. Discord + web. |
 | <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="16"> | [DALL·E 3 / GPT Image](https://openai.com) | ✅ Via ChatGPT | ✅ | OpenAI's text-to-image with strong prompt understanding. |
+| <img src="https://www.google.com/s2/favicons?domain=gptimage2.asia&sz=32" width="16"> | [GPT Image 2](https://gptimage2.asia/) | ✅ Free trial | ❌ | AI image generation and editing for marketing, ecommerce, social media, and branded content. |
+
 | <img src="https://www.google.com/s2/favicons?domain=bfl.ai&sz=32" width="16"> | [FLUX (Black Forest Labs)](https://bfl.ai) | ✅ Limited | ✅ | Gold standard for photorealism. Pro, Dev, Schnell variants. |
 | <img src="https://www.google.com/s2/favicons?domain=stability.ai&sz=32" width="16"> | [Stable Diffusion 3.5](https://stability.ai) | ✅ Open Source | ✅ | Foundational open-source text-to-image. Maximum customizability. |
 | <img src="https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=32" width="16"> | [Adobe Firefly](https://firefly.adobe.com) | ✅ 25 credits/mo | ✅ | Commercially safe. Trained on licensed content. Integrated with Photoshop. |
