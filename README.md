@@ -252,6 +252,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=raphael.app&sz=32" width="16"> | [Raphael AI](https://raphael.app) | ✅ Free | ❌ | Free unlimited AI image generator with intelligent multi-model routing. |
 | <img src="https://www.google.com/s2/favicons?domain=stablediffusionweb.com&sz=32" width="16"> | [Stable Diffusion Online](https://stablediffusionweb.com) | ✅ Free | ❌ | Free browser-based interface for generating images with Stable Diffusion XL. |
 | <img src="https://www.google.com/s2/favicons?domain=craiyon.com&sz=32" width="16"> | [Craiyon](https://craiyon.com) | ✅ Free | ❌ | Free AI image generator (formerly DALL-E Mini) creating 9 images per prompt. |
+| <img src="https://www.google.com/s2/favicons?domain=image.tinchak0207.xyz&sz=32" width="16"> | [Emu](https://image.tinchak0207.xyz) | ✅ Limited | ✅ | Online GPT Image 2 & Nano Banana Pro generator — no relay station or API key needed, sign in and download. |
 
 ## AI Logo & Brand Design
 
