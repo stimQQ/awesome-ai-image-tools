@@ -190,6 +190,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=zamzar.com&sz=32" width="16"> | [Zamzar](https://zamzar.com) | ✅ Limited | ✅ | Convert between 1200+ formats online. |
 | <img src="https://www.google.com/s2/favicons?domain=freeconvert.com&sz=32" width="16"> | [FreeConvert](https://freeconvert.com) | ✅ Limited | ✅ | Free online converter with advanced settings. |
 | <img src="https://www.google.com/s2/favicons?domain=vectorizer.ai&sz=32" width="16"> | [Vectorizer.AI](https://vectorizer.ai) | ✅ Preview | ✅ | AI-powered raster-to-vector converter turning PNG/JPG into clean SVG vectors. |
+| <img src="https://www.google.com/s2/favicons?domain=pixheic.com&sz=32" width="16"> | [PixHeic](https://pixheic.com) | ✅ Free | ❌ | 100% private in-browser HEIC toolkit for instant batch conversion to JPG, PNG, WebP, and PDF via WebAssembly. |
 
 ## AI Photo Editing Suites
 
