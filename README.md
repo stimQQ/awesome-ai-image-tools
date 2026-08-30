@@ -288,6 +288,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=tripo3d.ai&sz=32" width="16"> | [Tripo AI](https://tripo3d.ai) | ✅ Free | ✅ | Image/text to 3D mesh in 10-30 seconds. Full pipeline. |
 | <img src="https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=32" width="16"> | [Luma AI Genie](https://lumalabs.ai) | ✅ Limited | ✅ | Text-to-3D for games, VFX, visualization. |
 | <img src="https://www.google.com/s2/favicons?domain=kaedim3d.com&sz=32" width="16"> | [Kaedim](https://kaedim3d.com) | ❌ Trial | ✅ | 2D-to-3D production-ready models for studios. |
+| <img src="https://www.google.com/s2/favicons?domain=luphra.com&sz=32" width="16"> | [Luphra](https://luphra.com) | ✅ Limited | ❌ | Prompt-to-matter: turns prompts and sketches into editable 3D and printable models. |
 | <img src="https://www.google.com/s2/favicons?domain=alpha3d.io&sz=32" width="16"> | [Alpha3D](https://alpha3d.io) | ✅ Limited | ✅ | Text/image to 3D using generative algorithms. |
 | <img src="https://www.google.com/s2/favicons?domain=csm.ai&sz=32" width="16"> | [CSM.ai](https://csm.ai) | ✅ Free | ✅ | 2D images (incl. Midjourney) to 3D with part segmentation. |
 | <img src="https://www.google.com/s2/favicons?domain=sloyd.ai&sz=32" width="16"> | [Sloyd.ai](https://sloyd.ai) | ✅ Limited | ✅ | Procedural AI 3D for game dev with real-time generation. |
