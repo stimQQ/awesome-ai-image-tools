@@ -137,6 +137,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=deepfaceswap.ai&sz=32" width="16"> | [DeepFaceSwap](https://deepfaceswap.ai) | ✅ Free | ❌ | Online face swapping with no watermarks. Single and multi-face support. |
 | <img src="https://www.google.com/s2/favicons?domain=beart.ai&sz=32" width="16"> | [BeArt AI](https://beart.ai) | ✅ Free | ❌ | Free AI face swap for photos, videos, and GIFs with batch processing. Weekly credits. |
 | <img src="https://www.google.com/s2/favicons?domain=reface.ai&sz=32" width="16"> | [Reface](https://reface.ai) | ✅ Limited | ❌ | AI face swap studio for creating face-swapped videos, GIFs, and AI avatars. |
+| <img src="https://www.google.com/s2/favicons?domain=livefaceswap.ai&sz=32" width="16"> | [LiveFaceSwap AI](https://livefaceswap.ai/) | ✅ Limited (signup trial credits) | ❌ | Real-time face swapping from an authorized portrait reference and webcam, with browser preview. |
 
 ## Photo Restoration & Colorization
 
