@@ -363,6 +363,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 
 | | Tool | Free Tier | API | Description |
 |:---:|------|-----------|-----|-------------|
+| <img src="https://www.google.com/s2/favicons?domain=orkas.ai&sz=32" width="16"> | [Orkas](https://orkas.ai/agents/image-studio/?source=gh_stimqq) | ✅ Free & Open Source | ❌ | ImageStudio creates posters, covers and social graphics in an open-source, local-first desktop workforce coordinated by a Commander. |
 | <img src="https://www.google.com/s2/favicons?domain=canva.com&sz=32" width="16"> | [Canva](https://canva.com) | ✅ Free | ❌ | All-in-one design platform with extensive AI tools. |
 | <img src="https://www.google.com/s2/favicons?domain=vistacreate.com&sz=32" width="16"> | [VistaCreate](https://vistacreate.com) | ✅ Free | ❌ | Graphic design platform with templates and AI tools. |
 | <img src="https://www.google.com/s2/favicons?domain=piktochart.com&sz=32" width="16"> | [Piktochart](https://piktochart.com) | ✅ Limited | ❌ | AI-powered infographic and visual content creator. |
