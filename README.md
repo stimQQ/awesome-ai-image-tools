@@ -316,6 +316,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=klingai.com&sz=32" width="16"> | [Kling AI Try-On](https://klingai.com) | ✅ Limited | ❌ | 180+ styles with realistic fabric texture and lighting. |
 | <img src="https://www.google.com/s2/favicons?domain=fitroom.app&sz=32" width="16"> | [FitRoom](https://fitroom.app) | ✅ Free | ❌ | Outfit swaps in 10-15 seconds for styling and retail. |
 | <img src="https://www.google.com/s2/favicons?domain=thenewblack.ai&sz=32" width="16"> | [The New Black](https://thenewblack.ai) | ✅ Limited | ❌ | AI fashion design + virtual try-on for designers. |
+| <img src="https://www.google.com/s2/favicons?domain=privatetryon.com&sz=32" width="16"> | [Private Try-On](https://privatetryon.com/) | ✅ 5 free credits | ❌ | AI outfit previews from separate tops, bottoms, shoes, and optional accessories. |
 | <img src="https://www.google.com/s2/favicons?domain=perfectcorp.com&sz=32" width="16"> | [Perfect Corp](https://perfectcorp.com) | ✅ Limited | ✅ | Enterprise beauty/fashion try-on SDK for retail brands. |
 | <img src="https://www.google.com/s2/favicons?domain=weshop.ai&sz=32" width="16"> | [WeShop AI](https://weshop.ai) | ✅ Limited | ❌ | AI product photography + model generation for e-commerce. |
 
