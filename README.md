@@ -62,6 +62,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 
 | | Tool | Free Tier | API | Description |
 |:---:|------|-----------|-----|-------------|
+| <img src="https://www.google.com/s2/favicons?domain=upres.ai&sz=32" width="16"> | [UpRes](https://upres.ai) | ✅ Limited (5/mo at 2K) | ✅ | Cloud AI upscaler for photos and video, with a free monthly tier, a CLI, and an API. |
 | <img src="https://www.google.com/s2/favicons?domain=topazlabs.com&sz=32" width="16"> | [Topaz Photo AI](https://topazlabs.com/photo-ai) | ❌ Trial | ❌ | Industry-leading desktop app with AI denoising, sharpening, and upscaling. |
 | <img src="https://www.google.com/s2/favicons?domain=magnific.ai&sz=32" width="16"> | [Magnific AI](https://magnific.ai) | ❌ From $39/mo | ❌ | Creative "hallucinating" upscaler generating new details via text prompts. Up to 22K. |
 | <img src="https://www.google.com/s2/favicons?domain=krea.ai&sz=32" width="16"> | [Krea AI](https://krea.ai) | ✅ Limited | ❌ | Real-time AI enhancer. Upscales images to 22K and video to 8K. |
