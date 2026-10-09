@@ -252,6 +252,8 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=raphael.app&sz=32" width="16"> | [Raphael AI](https://raphael.app) | ✅ Free | ❌ | Free unlimited AI image generator with intelligent multi-model routing. |
 | <img src="https://www.google.com/s2/favicons?domain=stablediffusionweb.com&sz=32" width="16"> | [Stable Diffusion Online](https://stablediffusionweb.com) | ✅ Free | ❌ | Free browser-based interface for generating images with Stable Diffusion XL. |
 | <img src="https://www.google.com/s2/favicons?domain=craiyon.com&sz=32" width="16"> | [Craiyon](https://craiyon.com) | ✅ Free | ❌ | Free AI image generator (formerly DALL-E Mini) creating 9 images per prompt. |
+| <img src="https://www.google.com/s2/favicons?domain=livepairai.com&sz=32" width="16"> | [LivePair AI](https://livepairai.com) | ❌ | ✅ | 80+ image/video models with private-mode generation. MCP, OpenAPI, x402 APIs. |
+
 
 ## AI Logo & Brand Design
 
