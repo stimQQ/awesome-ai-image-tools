@@ -213,6 +213,8 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=befunky.com&sz=32" width="16"> | [BeFunky](https://befunky.com) | ✅ Free tier | ❌ | Online photo editor and collage maker with AI effects. No experience required. |
 | <img src="https://www.google.com/s2/favicons?domain=beautyplus.com&sz=32" width="16"> | [BeautyPlus](https://beautyplus.com) | ✅ Free tier | ❌ | AI selfie and photo editor with filters, retouching, and image generation tools. |
 
+| <img src="https://www.google.com/s2/favicons?domain=stunna-app.com&sz=32" width="16"> | [Stunna](https://stunna-app.com/) | ✅ Limited | ❌ | iOS and Android AI photo editor with camera-inspired looks, lighting edits, pose guides, and free browser filters. |
+
 ## Text-to-Image Generation
 
 | | Tool | Free Tier | API | Description |
