@@ -336,6 +336,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 |:---:|------|-----------|-----|-------------|
 | <img src="https://www.google.com/s2/favicons?domain=llamagen.ai&sz=32" width="16"> | [LlamaGen](https://llamagen.ai) | ✅ Free | ❌ | Comics, webtoons, manhwa, manga from text + character refs. |
 | <img src="https://www.google.com/s2/favicons?domain=dashtoon.com&sz=32" width="16"> | [Dashtoon](https://dashtoon.com) | ✅ Free | ❌ | AI comic studio with consistent characters and panel layouts. |
+| <img src="https://www.google.com/s2/favicons?domain=gentoon.ai&sz=32" width="16"> | [GenToon](https://www.gentoon.ai/en) | ✅ Limited | ✅ | Creates comics and webtoons from stories with panel planning, saved character references, speech bubbles, and panel revisions. |
 | <img src="https://www.google.com/s2/favicons?domain=comicsmaker.ai&sz=32" width="16"> | [ComicsMaker.ai](https://comicsmaker.ai) | ✅ Free | ❌ | Comic strips, manga pages, webtoon panels from text. |
 | <img src="https://www.google.com/s2/favicons?domain=komiko.app&sz=32" width="16"> | [KomikoAI](https://komiko.app) | ✅ Free | ❌ | Infinite canvas + consistent character engine for manga. |
 | <img src="https://www.google.com/s2/favicons?domain=anifusion.ai&sz=32" width="16"> | [Anifusion](https://anifusion.ai) | ✅ Limited | ❌ | AI anime art and manga panels from prompts. |
