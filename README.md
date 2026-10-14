@@ -212,6 +212,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=airbrush.com&sz=32" width="16"> | [AirBrush](https://airbrush.com) | ✅ Free tier | ❌ | AI photo editor focused on portrait retouching, skin refinement, and selfie enhancement. |
 | <img src="https://www.google.com/s2/favicons?domain=befunky.com&sz=32" width="16"> | [BeFunky](https://befunky.com) | ✅ Free tier | ❌ | Online photo editor and collage maker with AI effects. No experience required. |
 | <img src="https://www.google.com/s2/favicons?domain=beautyplus.com&sz=32" width="16"> | [BeautyPlus](https://beautyplus.com) | ✅ Free tier | ❌ | AI selfie and photo editor with filters, retouching, and image generation tools. |
+| <img src="https://www.google.com/s2/favicons?domain=mangatranslate.com&sz=32" width="16"> | [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) | ✅ Limited | ✅ | 만화 번역기 AI는 Ficory LLC가 제공하는 기업급 만화 리더이자 AI 만화 번역기로서 지원하는 모든 번역 언어인 100개 이상의 언어로 개인 사용자의 만화 이미지를 일괄·맞춤 번역하고, 스튜디오 사용자에게 Photoshop과 유사한 완전한 온라인 편집기를 제공하며, 개발자가 API를 개인 작업 흐름에 연결하여 번역 작업을 자동화하도록 지원합니다. |
 
 ## Text-to-Image Generation
 
