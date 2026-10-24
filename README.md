@@ -224,6 +224,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=32" width="16"> | [Adobe Firefly](https://firefly.adobe.com) | ✅ 25 credits/mo | ✅ | Commercially safe. Trained on licensed content. Integrated with Photoshop. |
 | <img src="https://www.google.com/s2/favicons?domain=ideogram.ai&sz=32" width="16"> | [Ideogram](https://ideogram.ai) | ✅ Limited | ✅ | Best-in-class text rendering in images. Posters, logos. |
 | <img src="https://www.google.com/s2/favicons?domain=leonardo.ai&sz=32" width="16"> | [Leonardo.ai](https://leonardo.ai) | ✅ 150 tokens/day | ✅ | Game assets, concept art, consistent characters. |
+| <img src="https://www.google.com/s2/favicons?domain=promptimage.cloud&sz=32" width="16"> | [PromptImage](https://promptimage.cloud) | ✅ Freemium | ❌ | Free AI image gallery + image/video generator. |
 | <img src="https://www.google.com/s2/favicons?domain=aitestkitchen.withgoogle.com&sz=32" width="16"> | [Google Imagen 3](https://aitestkitchen.withgoogle.com) | ✅ Via Gemini | ✅ | Google's flagship image model. Vertex AI API. |
 | <img src="https://www.google.com/s2/favicons?domain=playground.com&sz=32" width="16"> | [Playground AI](https://playground.com) | ✅ 500/day | ❌ | Consumer-friendly with strong aesthetics and canvas editor. |
 | <img src="https://www.google.com/s2/favicons?domain=krea.ai&sz=32" width="16"> | [Krea AI](https://krea.ai) | ✅ Limited | ❌ | Real-time generation with canvas controls. Instant feedback. |
