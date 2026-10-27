@@ -150,6 +150,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=media.io&sz=32" width="16"> | [Media.io Colorizer](https://media.io/photo-colorizer.html) | ✅ Free | ❌ | Free AI photo colorizer with natural-looking colors. |
 | <img src="https://www.google.com/s2/favicons?domain=myheritage.com&sz=32" width="16"> | [MyHeritage Photo Enhancer](https://myheritage.com) | ✅ Limited | ❌ | Enhance, colorize, and animate old family photos. |
 | <img src="https://www.google.com/s2/favicons?domain=vanceai.com&sz=32" width="16"> | [VanceAI Photo Restorer](https://vanceai.com) | ✅ Limited | ✅ | AI old photo restoration removing scratches and damage. |
+| <img src="https://www.google.com/s2/favicons?domain=moireremoval.com&sz=32" width="16"> | [MoireRemoval](https://moireremoval.com) | ✅ Free | ❌ | Free AI moiré remover for screen photos, scanned prints and fabric shots. No signup. |
 
 ## Style Transfer
 
