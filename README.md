@@ -329,6 +329,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=nightjar.so&sz=32" width="16"> | [Nightjar](https://nightjar.so) | ❌ Paid | ✅ | Visual consistency across hundreds of product images at scale. |
 | <img src="https://www.google.com/s2/favicons?domain=wizcommerce.com&sz=32" width="16"> | [WizStudio](https://wizcommerce.com) | ✅ Limited | ❌ | AI product photos for wholesalers: lifestyle images, shadows, relighting, multi-product staging. |
 | <img src="https://www.google.com/s2/favicons?domain=prophotoplayground.com&sz=32" width="16"> | [Pro Photo Playground](https://prophotoplayground.com) | ❌ $50/mo | ❌ | Professional AI editing + generation with virtual try-on, video creation, and 4K upscaling. |
+| <img src="https://www.google.com/s2/favicons?domain=photoshoot.app&sz=32" width="16"> | [Photoshoot](https://photoshoot.app/?utm_source=github_com&utm_medium=backlink&utm_campaign=202609_w7_backlinks) | ✅ Limited | ❌ | AI commercial photography studio: one product photo in, studio-grade listing shots, model/OOTD photos, and campaign imagery out. |
 
 ## AI Comic & Manga Generation
 
