@@ -267,6 +267,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=wix.com&sz=32" width="16"> | [Wix Logo Maker](https://wix.com/logo/maker) | ✅ Preview | ❌ | AI logo creation integrated with Wix website builder. |
 | <img src="https://www.google.com/s2/favicons?domain=kittl.com&sz=32" width="16"> | [Kittl](https://kittl.com) | ✅ Limited | ❌ | AI design platform for logos, brand systems, and merchandise. |
 | <img src="https://www.google.com/s2/favicons?domain=designevo.com&sz=32" width="16"> | [DesignEvo](https://designevo.com) | ✅ Limited | ❌ | Template-based logo maker with 10,000+ icons. |
+| [Ideoy](https://ideoy.ai) | Remake this week's viral meme videos from one selfie (MiniMax H3, 9:16) | Freemium | — |
 
 ## AI Avatar & Headshot Generation
 
