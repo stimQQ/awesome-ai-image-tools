@@ -12,6 +12,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 - [Object Removal & Inpainting](#object-removal--inpainting)
 - [Face Editing & Retouching](#face-editing--retouching)
 - [AI Face Swap](#ai-face-swap)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [Photo Restoration & Colorization](#photo-restoration--colorization)
 - [Style Transfer](#style-transfer)
 - [Image Compression & Optimization](#image-compression--optimization)
