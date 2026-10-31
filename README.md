@@ -165,6 +165,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=magichour.ai&sz=32" width="16"> | [Magic Hour](https://magichour.ai) | ✅ Limited | ✅ | Face swap, video style transfer, and image animation. |
 | <img src="https://www.google.com/s2/favicons?domain=piclumen.com&sz=32" width="16"> | [PicLumen](https://piclumen.com) | ✅ Free | ❌ | AI image generation with style transfer and artistic style application. |
 | <img src="https://www.google.com/s2/favicons?domain=domoai.app&sz=32" width="16"> | [DomoAI](https://domoai.app) | ✅ Limited | ✅ | AI animation platform for video-to-video style transfer, image-to-video, and avatars. |
+| <img src="https://www.google.com/s2/favicons?domain=losercoreai.com&sz=32" width="16"> | [Losercore AI](https://losercoreai.com) | ✅ Limited | ❌ | Selfie to PS2-style lonely-scene stills and optional short silent video; scene presets, not a prompt playground. |
 
 ## Image Compression & Optimization
 
