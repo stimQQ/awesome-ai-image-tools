@@ -345,6 +345,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | | Tool | Free Tier | API | Description |
 |:---:|------|-----------|-----|-------------|
 | <img src="https://www.google.com/s2/favicons?domain=adobe.com&sz=32" width="16"> | [Adobe Firefly Sketch](https://adobe.com/products/firefly) | ✅ Limited | ✅ | Rough sketches to refined images with style control. |
+| <img src="https://www.google.com/s2/favicons?domain=aiposegallery.com&sz=32" width="16"> | [AI Pose Gallery](https://aiposegallery.com/?utm_source=stimqq-awesome-ai-image-tools&utm_medium=directory&utm_campaign=backlinks) | ✅ Free gallery | ❌ | Free pose-reference gallery for artists, plus optional AI pose generation from a photo or reference pose (one-time credit packs). |
 | <img src="https://www.google.com/s2/favicons?domain=canva.com&sz=32" width="16"> | [Canva Sketch to Life](https://canva.com) | ✅ Limited | ❌ | Sketch → describe → generate workflow inside Canva. |
 | <img src="https://www.google.com/s2/favicons?domain=fotor.com&sz=32" width="16"> | [Fotor AI Sketch](https://fotor.com/features/ai-sketch) | ✅ Free | ❌ | Sketches to digital art in 14+ styles (anime, watercolor, oil). |
 | <img src="https://www.google.com/s2/favicons?domain=newarc.ai&sz=32" width="16"> | [NewArc.ai](https://newarc.ai) | ✅ Limited | ❌ | Sketches, fashion illustrations, technical drawings to photos. |
