@@ -143,6 +143,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | | Tool | Free Tier | API | Description |
 |:---:|------|-----------|-----|-------------|
 | <img src="https://www.google.com/s2/favicons?domain=remini.ai&sz=32" width="16"> | [Remini](https://remini.ai) | ✅ Limited | ✅ | Restores blurry, low-res, and B&W old family photos. Mobile-first. |
+| <img src="https://www.google.com/s2/favicons?domain=heirloompix.com&sz=32" width="16"> | [HeirloomPix](https://heirloompix.com/) | ✅ Limited (watermarked preview) | ❌ | Restore scanned photos affected by scratches, fading, or yellowing and compare the result with the original. |
 | <img src="https://www.google.com/s2/favicons?domain=hotpot.ai&sz=32" width="16"> | [Hotpot.ai Colorize](https://hotpot.ai/colorize-picture) | ✅ Free | ✅ | AI colorizer analyzing context to apply realistic colors to B&W photos. |
 | <img src="https://www.google.com/s2/favicons?domain=cutout.pro&sz=32" width="16"> | [Cutout.Pro Colorizer](https://cutout.pro/photo-colorizer-black-and-white) | ✅ Limited | ✅ | AI colorization trained on millions of B&W photos. |
 | <img src="https://www.google.com/s2/favicons?domain=fotor.com&sz=32" width="16"> | [Fotor Colorize](https://fotor.com/features/colorize-photo) | ✅ Free | ❌ | AI color prediction based on contextual image analysis. |
