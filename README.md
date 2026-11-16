@@ -299,6 +299,7 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 |:---:|------|-----------|-----|-------------|
 | <img src="https://www.google.com/s2/favicons?domain=roomgpt.io&sz=32" width="16"> | [RoomGPT](https://roomgpt.io) | ✅ Limited | ❌ | AI room redesign tool. 2M+ users. Style-transfer renovations. |
 | <img src="https://www.google.com/s2/favicons?domain=reimaginehome.ai&sz=32" width="16"> | [REimagineHome](https://reimaginehome.ai) | ✅ Limited | ❌ | Virtual staging for real estate. Auto-stage in under 60 seconds. |
+| <img src="https://www.google.com/s2/favicons?domain=emptyroomai.com&sz=32" width="16"> | [EmptyRoom AI](https://emptyroomai.com) | ❌ Paid | ❌ | AI virtual staging for real estate listing photos; pay per room with free restages. |
 | <img src="https://www.google.com/s2/favicons?domain=interiorai.com&sz=32" width="16"> | [Interior AI](https://interiorai.com) | ✅ Limited | ❌ | Transform room photos into styled design concepts. |
 | <img src="https://www.google.com/s2/favicons?domain=collov.ai&sz=32" width="16"> | [Collov AI](https://collov.ai) | ✅ Limited | ❌ | Professional AI interior rendering with furniture placement brush. |
 | <img src="https://www.google.com/s2/favicons?domain=spacely.ai&sz=32" width="16"> | [Spacely AI](https://spacely.ai) | ✅ Limited | ❌ | AI room planner with Realistic Render and Auto-Furnish. |
