@@ -57,6 +57,8 @@ Whether you're a content creator, designer, or developer, this list helps you fi
 | <img src="https://www.google.com/s2/favicons?domain=blend.so&sz=32" width="16"> | [Blend](https://blend.so) | ✅ Limited | ❌ | AI background eraser with AI-generated background replacement. |
 | <img src="https://www.google.com/s2/favicons?domain=pixian.ai&sz=32" width="16"> | [Pixian.ai](https://pixian.ai) | ✅ Limited | ✅ | AI background removal up to 25MP. Great for objects, logos, hair/fur. Drop-in remove.bg replacement. |
 | <img src="https://www.google.com/s2/favicons?domain=ezremove.ai&sz=32" width="16"> | [EzRemove](https://ezremove.ai) | ✅ Free | ❌ | Free AI background remover with batch processing. No signup, no watermark. |
+| <img src="https://www.google.com/s2/favicons?domain=backgone.com&sz=32" width="16"> | [BackGone](https://backgone.com) | ✅ Limited | ❌ | Browser-based AI background remover with transparent PNG, bulk batches, passport-photo backgrounds and animated GIF support. |
+
 
 ## Image Upscaling & Enhancement
 
